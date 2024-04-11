@@ -23,14 +23,17 @@ Visualization Creation:
 4-Create individual visualizations to showcase specific aspects of sales performance (e.g., revenue trends, product sales, regional analysis).
 Customize the appearance and formatting of each visualization to improve clarity and aesthetics.
 Ensure consistency in design and branding throughout the dashboard.
-Dashboard Interactivity:
 
-5-Configure interactive features such as tooltips, cross-filtering, and highlighting to enable users to explore the data dynamically.
+5-Dashboard Interactivity:
+Configure interactive features such as tooltips, cross-filtering, and highlighting to enable users to explore the data dynamically.
 Implement user-friendly navigation and interactivity to enhance the user experience.
-Testing and Validation:
 
-6-Test the dashboard thoroughly to ensure accuracy and functionality across different scenarios.
+6-Testing and Validation:
+Test the dashboard thoroughly to ensure accuracy and functionality across different scenarios.
 Validate the results against known benchmarks or business requirements to verify the integrity of the analysis.
+
+![image](https://github.com/PriyaKamala/PowerBI/assets/39652793/436754c9-7c64-44bc-98ee-1d4270962953)
+
 
 
 
