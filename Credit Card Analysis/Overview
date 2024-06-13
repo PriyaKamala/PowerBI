@@ -1,0 +1,30 @@
+Project Objective
+
+To develop a comprehensive credit card weekly dashboard that provides real-time insights 
+into key performance metrics and trends,enabling stakeholders to monitor and analyze credit 
+card operations effectively.
+
+*Client_Num-CustomerID
+*Card_Category-Indicates the type of card used by the customer	
+*Annual_Fees-The fees charged by the bank for the card used by the customer	
+*Activation_30_Days-Indicates if the card was activated by the customer within 30 days of card creation	
+*Customer_Acq_Cost-The amount spent in getting the customer to use the credit card services offered by the bank	
+*Credit_Limit-The maximum amount the customer is allowed to spend	
+*Total_Revolving_Bal-Any remainder of unpaid credit card bill from previous month that is carried over to the next month	
+*Total_Trans_Amt-Total amount spent by the customer using credit card	
+*Total_Trans_Vol-Total number of transactions done	
+*Avg_Utilization_Ratio=Total Revolving balance/Credit limit(the lower the better for the customer)	
+*Use Chip-Type of chip used	
+*Exp Type-Type of expenditure	
+*Interest_Earned-The amount earned by the bank	
+*Delinquent_Acc-The defaulters who were unable to pay their credit card bills.
+
+Overview YTD
+*Overall revenue is 57M
+*Total interest is 8M
+*Total transaction amount is 46 M
+*Male customers are conttributing more in revenue
+*Blue & Silver credit cards are contributing to 93% of overall transactions
+*TX,NY,CA is contributing to 68%
+*Overall activation rate is 57.5%
+*Overall Delinquent rate is 6.06%
